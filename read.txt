@@ -5,3 +5,4 @@
 在master分支上解决了冲突并重新提交
 
 在master上制作新的分支冲突
+在master分支上解决bug
